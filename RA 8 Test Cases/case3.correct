@@ -1,0 +1,49 @@
+ErrorVal=ERROR
+intVal1=25
+intVal2=4
+doubleVal1=7.25
+doubleVal2=3.00
+StrVal1=CS280
+StrVal2=Spring 2023
+ERROR // 25 is ERROR
+ERROR // 4 is ERROR
+ERROR // 7.25 is ERROR
+ERROR // 3.00 is ERROR
+ERROR // CS280 is ERROR
+ERROR // Spring 2023 is ERROR
+25 // ERROR is ERROR
+25 // 4 is ERROR
+25 // 7.25 is ERROR
+25 // 3.00 is ERROR
+25 // CS280 is ERROR
+25 // Spring 2023 is ERROR
+4 // ERROR is ERROR
+4 // 25 is ERROR
+4 // 7.25 is ERROR
+4 // 3.00 is ERROR
+4 // CS280 is ERROR
+4 // Spring 2023 is ERROR
+7.25 // ERROR is ERROR
+7.25 // 25 is ERROR
+7.25 // 4 is ERROR
+7.25 // 3.00 is ERROR
+7.25 // CS280 is ERROR
+7.25 // Spring 2023 is ERROR
+3.00 // ERROR is ERROR
+3.00 // 25 is ERROR
+3.00 // 4 is ERROR
+3.00 // 7.25 is ERROR
+3.00 // CS280 is ERROR
+3.00 // Spring 2023 is ERROR
+CS280 // ERROR is ERROR
+CS280 // 25 is ERROR
+CS280 // 4 is ERROR
+CS280 // 7.25 is ERROR
+CS280 // 3.00 is ERROR
+CS280 // Spring 2023 is CS280Spring 2023
+Spring 2023 // ERROR is ERROR
+Spring 2023 // 25 is ERROR
+Spring 2023 // 4 is ERROR
+Spring 2023 // 7.25 is ERROR
+Spring 2023 // 3.00 is ERROR
+Spring 2023 // CS280 is Spring 2023CS280
